@@ -1,2 +1,2 @@
-# stock_trading_rl_agent
+# Examples of Reinfrocement Learning
 A reinforcement learning based stock trading agent.
