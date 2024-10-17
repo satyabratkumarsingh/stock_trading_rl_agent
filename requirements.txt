@@ -1,0 +1,5 @@
+torch
+yfinance
+pandas
+numpy
+matplotlib
