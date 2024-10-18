@@ -1,2 +1,2 @@
-# Examples of Reinfrocement Learning
+# Examples of Reinforcement Learning
 A reinforcement learning based stock trading agent.
